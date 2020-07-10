@@ -1,5 +1,5 @@
 {
-    "files":[
+  "files":[
     {
       "file_name": "Meri Aashiqui",
       "file_type": "audio",
@@ -35,6 +35,15 @@
       "file_stream_link": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_1280_10MG.mp4",
       "file_download_link": "",
       "format": "mp4"
+    },
+    {
+      "file_name": "Give and Take: WHY HELPING OTHERS DRIVES OUR SUCCESS",
+      "file_type": "document",
+      "file_icon": "https://s.pdfdrive.com/assets/thumbs/653/653f249a58f438ef343c5da5f023203d.jpg",
+      "file_size": "1.6MB",
+      "file_stream_link": "https://sambazmusic.files.wordpress.com/2017/08/give-and-take.pdf",
+      "file_download_link": "https://sambazmusic.files.wordpress.com/2017/08/give-and-take.pdf",
+      "format": "pdf"
     }
   ]
 }
