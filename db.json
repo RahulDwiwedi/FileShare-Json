@@ -44,6 +44,141 @@
       "file_stream_link": "https://sambazmusic.files.wordpress.com/2017/08/give-and-take.pdf",
       "file_download_link": "https://sambazmusic.files.wordpress.com/2017/08/give-and-take.pdf",
       "format": "pdf"
+    },
+    {
+      "file_name": "Meri Aashiqui",
+      "file_type": "audio",
+      "file_icon": "https://a10.gaanacdn.com/images/albums/76/3215276/crop_55x55_3215276.jpg",
+      "file_size": "2MB",
+      "file_stream_link": "https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_2MG.mp3",
+      "file_download_link": "",
+      "format": "mp3"
+    },
+    {
+      "file_name": "Genda Phool",
+      "file_type": "audio",
+      "file_icon": "https://a10.gaanacdn.com/images/albums/53/3089153/crop_55x55_3089153.jpg",
+      "file_size": "1MB",
+      "file_stream_link": "https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_1MG.mp3",
+      "file_download_link": "",
+      "format": "mp3"
+    },
+    {
+      "file_name": "earth video",
+      "file_type": "video",
+      "file_icon": "https://a10.gaanacdn.com/images/song/3/30762503/crop_55x55_1593616645.jpg",
+      "file_size": "3MB",
+      "file_stream_link": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_640_3MG.mp4",
+      "file_download_link": "",
+      "format": "mp4"
+    },
+    {
+      "file_name": "earth rotation live",
+      "file_type": "video",
+      "file_icon": "https://a10.gaanacdn.com/images/song/70/29322770/crop_55x55_1579686718.jpg",
+      "file_size": "10MB",
+      "file_stream_link": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_1280_10MG.mp4",
+      "file_download_link": "",
+      "format": "mp4"
+    },
+    {
+      "file_name": "Give and Take: WHY HELPING OTHERS DRIVES OUR SUCCESS",
+      "file_type": "document",
+      "file_icon": "https://s.pdfdrive.com/assets/thumbs/653/653f249a58f438ef343c5da5f023203d.jpg",
+      "file_size": "1.6MB",
+      "file_stream_link": "https://sambazmusic.files.wordpress.com/2017/08/give-and-take.pdf",
+      "file_download_link": "https://sambazmusic.files.wordpress.com/2017/08/give-and-take.pdf",
+      "format": "pdf"
+    },
+    {
+      "file_name": "Meri Aashiqui",
+      "file_type": "audio",
+      "file_icon": "https://a10.gaanacdn.com/images/albums/76/3215276/crop_55x55_3215276.jpg",
+      "file_size": "2MB",
+      "file_stream_link": "https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_2MG.mp3",
+      "file_download_link": "",
+      "format": "mp3"
+    },
+    {
+      "file_name": "Genda Phool",
+      "file_type": "audio",
+      "file_icon": "https://a10.gaanacdn.com/images/albums/53/3089153/crop_55x55_3089153.jpg",
+      "file_size": "1MB",
+      "file_stream_link": "https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_1MG.mp3",
+      "file_download_link": "",
+      "format": "mp3"
+    },
+    {
+      "file_name": "earth video",
+      "file_type": "video",
+      "file_icon": "https://a10.gaanacdn.com/images/song/3/30762503/crop_55x55_1593616645.jpg",
+      "file_size": "3MB",
+      "file_stream_link": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_640_3MG.mp4",
+      "file_download_link": "",
+      "format": "mp4"
+    },
+    {
+      "file_name": "earth rotation live",
+      "file_type": "video",
+      "file_icon": "https://a10.gaanacdn.com/images/song/70/29322770/crop_55x55_1579686718.jpg",
+      "file_size": "10MB",
+      "file_stream_link": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_1280_10MG.mp4",
+      "file_download_link": "",
+      "format": "mp4"
+    },
+    {
+      "file_name": "Give and Take: WHY HELPING OTHERS DRIVES OUR SUCCESS",
+      "file_type": "document",
+      "file_icon": "https://s.pdfdrive.com/assets/thumbs/653/653f249a58f438ef343c5da5f023203d.jpg",
+      "file_size": "1.6MB",
+      "file_stream_link": "https://sambazmusic.files.wordpress.com/2017/08/give-and-take.pdf",
+      "file_download_link": "https://sambazmusic.files.wordpress.com/2017/08/give-and-take.pdf",
+      "format": "pdf"
+    },
+    {
+      "file_name": "Meri Aashiqui",
+      "file_type": "audio",
+      "file_icon": "https://a10.gaanacdn.com/images/albums/76/3215276/crop_55x55_3215276.jpg",
+      "file_size": "2MB",
+      "file_stream_link": "https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_2MG.mp3",
+      "file_download_link": "",
+      "format": "mp3"
+    },
+    {
+      "file_name": "Genda Phool",
+      "file_type": "audio",
+      "file_icon": "https://a10.gaanacdn.com/images/albums/53/3089153/crop_55x55_3089153.jpg",
+      "file_size": "1MB",
+      "file_stream_link": "https://file-examples-com.github.io/uploads/2017/11/file_example_MP3_1MG.mp3",
+      "file_download_link": "",
+      "format": "mp3"
+    },
+    {
+      "file_name": "earth video",
+      "file_type": "video",
+      "file_icon": "https://a10.gaanacdn.com/images/song/3/30762503/crop_55x55_1593616645.jpg",
+      "file_size": "3MB",
+      "file_stream_link": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_640_3MG.mp4",
+      "file_download_link": "",
+      "format": "mp4"
+    },
+    {
+      "file_name": "earth rotation live",
+      "file_type": "video",
+      "file_icon": "https://a10.gaanacdn.com/images/song/70/29322770/crop_55x55_1579686718.jpg",
+      "file_size": "10MB",
+      "file_stream_link": "https://file-examples-com.github.io/uploads/2017/04/file_example_MP4_1280_10MG.mp4",
+      "file_download_link": "",
+      "format": "mp4"
+    },
+    {
+      "file_name": "Give and Take: WHY HELPING OTHERS DRIVES OUR SUCCESS",
+      "file_type": "document",
+      "file_icon": "https://s.pdfdrive.com/assets/thumbs/653/653f249a58f438ef343c5da5f023203d.jpg",
+      "file_size": "1.6MB",
+      "file_stream_link": "https://sambazmusic.files.wordpress.com/2017/08/give-and-take.pdf",
+      "file_download_link": "https://sambazmusic.files.wordpress.com/2017/08/give-and-take.pdf",
+      "format": "pdf"
     }
   ]
 }
